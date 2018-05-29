@@ -1,0 +1,6 @@
+[package]
+name = "multiparty"
+version = "0.1.0"
+authors = ["TheUnitedStatesOfAmerica <poonikinsthemagicdog@gmail.com>"]
+
+[dependencies]
